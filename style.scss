@@ -9,7 +9,12 @@ body {
     p{
         text-indent: 5px;
         line-height: 1.5rem;
+
         &:first-child{
+            color: orange;
+        }
+        
+        &:nth-child(1){
             color: orange;
         }
 

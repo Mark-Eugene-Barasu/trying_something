@@ -13,6 +13,9 @@ body p {
 body p:first-child {
   color: orange;
 }
+body p:nth-child(1) {
+  color: orange;
+}
 body p:nth-child(2) {
   color: chartreuse;
 }
