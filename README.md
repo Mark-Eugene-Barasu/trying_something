@@ -1,7 +1,7 @@
 
-## coding is fun!!! :)
+# coding is fun!!! :)
  &
-## I know well that coding is beautiful
+# I know well that coding is beautiful
 
 [check it out][def]
 
